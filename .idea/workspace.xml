@@ -2,8 +2,104 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e2b722c-4e90-4c2c-8992-f9c9989b4543" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/TEMPLATE_caricamentoTessere_CP.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/alessiMartina.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/balzanoalba.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/bergagnadiego.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/bozzaEleonora.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/buonoRachele.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/cuccuDavideLuigi.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/falcoGiorgio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/ferreroStella.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/forlatiFabrizia.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/geladopereiraAngel.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/geraciSimone.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/hamzahagiIjaba.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/huangMaria.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/lavezzaroDaniele.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/lomurnoFederico.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/luddeniMarco.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/naiboLuca.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/petittiMartina.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/porettiGiulia.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/rivottiMattia.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/rizzomariarosaria.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/sassoneDaniele.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/sicignanoValeria.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/trombettaFederica.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/cfto/zanattaDavide.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/arisioAndrea.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/bajAlessandro.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/bertoldoLORENZO.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/bevilacquaRiccardo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/bevilacquaSimone.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/bobeicabogdan.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/bugnanoMaurizio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/cagliotiCristian.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/casulaClaudia.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/cenicolaMarco.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/colibasSergiuGabriel.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/curlanteAlberto.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/d'agateDaniele.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/decristofaroILARIA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/dell'aeraRossella.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/depaceMarco.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/dibenedettoFabio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/digennaroGerardo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/dimariaAntonino.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/dimonteMarcello.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/distefanoFabio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/fariguCarlo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/fazariMASSIMO.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/fiorinoDomenico.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/galboErica.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/guastellaMirko.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/harkaenri.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/iuratoAndrea.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/leddaFrancesco.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/listiLuca.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/liturriDavide.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/longhitanoAlessandro.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/luddeniDavide.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/mainardiSonia.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/montanoAntonio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/moroValentina.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/paceFederico.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/pacheraAlberto.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/piscitelliRaffaele.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/punziAngelo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/rizziPietro.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/rotellaAurora.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/sagliaClaudia.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/salgarolloMarco.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/sbeghenAlessio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/schiavoneSamantha.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/setteLucrezia.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/spinoniEnrico.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/stasollamichele.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/tarriconeRiccardo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/vacchieroAndrea.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/verrecchiaSimona.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/vialeEleonora.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/violaFederica.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/violaROSARIO.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/vulcanoValentina.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/zamburlinANDREA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/zulloFrancesco.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/other/ötteniusMyrna.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/assets/partecip.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/compile_asi_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/compile_pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_info_to_pdf/tessere.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf_to_csv/team.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/useful-script.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-useful-script.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_info_to_pdf/ISCRIZIONE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_info_to_pdf/destination.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_info_to_pdf/write_pdf.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,38 +111,12 @@
     <favorites_list name="useful-script" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/add_info_to_pdf/write_pdf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-              <folding>
-                <element signature="e#0#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pdf_to_csv/pdftable_tocsv.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pdf_to_csv/pdftable_tocsv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="80" selection-start-line="1" selection-start-column="80" selection-end-line="1" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="103" column="14" lean-forward="true" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+            <state relative-caret-position="880">
+              <caret line="132" column="28" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -60,6 +130,16 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>;</find>
+      <find>,</find>
+      <find>,&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>,&quot;</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -70,21 +150,31 @@
         <option value="$PROJECT_DIR$/check-juventus-tickets/juventus-check.py" />
         <option value="$PROJECT_DIR$/write_pdf.py" />
         <option value="$PROJECT_DIR$/pdf_to_csv/pdftable_tocsv.py" />
+        <option value="$PROJECT_DIR$/team.csv" />
+        <option value="$PROJECT_DIR$/pdf_to_csv/team.csv" />
+        <option value="$PROJECT_DIR$/add_info_to_pdf/write_pdf.py" />
+        <option value="$PROJECT_DIR$/add_info_to_pdf/info.csv" />
+        <option value="$PROJECT_DIR$/add_info_to_pdf/compile_pdf.py" />
+        <option value="$PROJECT_DIR$/add_info_to_pdf/TEMPLATE_caricamentoTessere_CP.csv" />
+        <option value="$PROJECT_DIR$/add_info_to_pdf/compile_asi_csv.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="640" />
-    <option name="y" value="258" />
-    <option name="width" value="1280" />
-    <option name="height" value="799" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,30 +182,42 @@
               <item name="python-useful-script" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-useful-script" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-useful-script" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-useful-script" type="462c0819:PsiDirectoryNode" />
+              <item name="add_info_to_pdf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-useful-script" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-useful-script" type="462c0819:PsiDirectoryNode" />
+              <item name="add_info_to_pdf" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/add_info_to_pdf" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/add_info_to_pdf" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/add_info_to_pdf" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/add_info_to_pdf/assets" />
       <recent name="$PROJECT_DIR$/pdf_to_csv" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -130,9 +232,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.write_pdf">
+  <component name="RunManager" selected="Python.compile_asi_csv">
+    <configuration name="compile_asi_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-useful-script" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/add_info_to_pdf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/add_info_to_pdf/compile_asi_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="compile_pdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-useful-script" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/add_info_to_pdf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/add_info_to_pdf/compile_pdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="juventus-check" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="useful-script" />
+      <module name="python-useful-script" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -154,7 +300,7 @@
       <method v="2" />
     </configuration>
     <configuration name="pdftable_tocsv" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="useful-script" />
+      <module name="python-useful-script" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -176,7 +322,7 @@
       <method v="2" />
     </configuration>
     <configuration name="write_pdf" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="useful-script" />
+      <module name="python-useful-script" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -199,6 +345,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.compile_asi_csv" />
+        <item itemvalue="Python.compile_pdf" />
         <item itemvalue="Python.write_pdf" />
         <item itemvalue="Python.juventus-check" />
         <item itemvalue="Python.pdftable_tocsv" />
@@ -219,23 +367,34 @@
       <workItem from="1579280818221" duration="1445000" />
       <workItem from="1579453506849" duration="698000" />
       <workItem from="1579682577019" duration="14170000" />
-      <workItem from="1579769750921" duration="27000" />
+      <workItem from="1579769750921" duration="1774000" />
+      <workItem from="1579861430647" duration="547000" />
+      <workItem from="1580031621424" duration="9841000" />
+      <workItem from="1580389052136" duration="1529000" />
+      <workItem from="1580410601433" duration="6249000" />
+      <workItem from="1580475784226" duration="3599000" />
+      <workItem from="1580502203915" duration="1056000" />
+      <workItem from="1580576337498" duration="523000" />
+      <workItem from="1580646936541" duration="138000" />
+      <workItem from="1580668951577" duration="537000" />
+      <workItem from="1581012804230" duration="82000" />
+      <workItem from="1582398277078" duration="42000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17252000" />
+    <option name="totallyTimeSpent" value="43142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49948186" visible="true" weight="0.1517572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49948186" visible="true" weight="0.16986156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50051814" side_tool="true" weight="0.15654951" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3284974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -258,7 +417,10 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/useful_script$juventus_check.coverage" NAME="juventus-check Coverage Results" MODIFIED="1579709730897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/check-juventus-tickets" />
+    <SUITE FILE_PATH="coverage/python_useful_script$compile_pdf.coverage" NAME="compile_pdf Coverage Results" MODIFIED="1580476272505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/add_info_to_pdf" />
     <SUITE FILE_PATH="coverage/useful_script$pdftable_tocsv.coverage" NAME="pdftable_tocsv Coverage Results" MODIFIED="1579281373403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_useful_script$compile_asi_csv.coverage" NAME="compile_asi_csv Coverage Results" MODIFIED="1580478344022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/add_info_to_pdf" />
+    <SUITE FILE_PATH="coverage/python_useful_script$write_pdf.coverage" NAME="write_pdf Coverage Results" MODIFIED="1579805696570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/useful_script$write_pdf.coverage" NAME="write_pdf Coverage Results" MODIFIED="1579731263376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -268,14 +430,46 @@
     <entry file="file://$PROJECT_DIR$/out.csv" />
     <entry file="file://$PROJECT_DIR$/check-juventus-tickets/juventus-check.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="165">
+          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pdf_to_csv/pdftable_tocsv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdf_to_csv/pdftable_tocsv.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team.csv" />
+    <entry file="file://$PROJECT_DIR$/pdf_to_csv/output.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="54" lean-forward="true" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdf_to_csv/team.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_info_to_pdf/write_pdf.py" />
     <entry file="file://$USER_HOME$/.local/share/virtualenvs/machine-learning-exam/lib/python3.6/site-packages/reportlab/pdfgen/canvas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -283,30 +477,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/add_info_to_pdf/write_pdf.py">
+    <entry file="file://$USER_HOME$/.local/share/virtualenvs/machine-learning-exam/lib/python3.6/site-packages/pandas/core/frame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="207">
+          <caret line="6998" column="46" selection-start-line="6998" selection-start-column="28" selection-end-line="6998" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/share/virtualenvs/machine-learning-exam/lib/python3.6/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="3080" column="11" selection-start-line="3080" selection-start-column="8" selection-end-line="3080" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_info_to_pdf/test.csv" />
+    <entry file="file://$PROJECT_DIR$/add_info_to_pdf/TEMPLATE_caricamentoTessere_CP.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="70" lean-forward="true" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_info_to_pdf/compile_pdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
           <folding>
-            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pdf_to_csv/pdftable_tocsv.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pdf_to_csv/pdftable_tocsv.py">
+    <entry file="file://$PROJECT_DIR$/add_info_to_pdf/compile_asi_csv.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_info_to_pdf/info.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="80" selection-start-line="1" selection-start-column="80" selection-end-line="1" selection-end-column="80" />
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_info_to_pdf/tessere.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="103" column="14" lean-forward="true" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+        <state relative-caret-position="880">
+          <caret line="132" column="28" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
         </state>
       </provider>
     </entry>

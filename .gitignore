@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 settings/chromedriver
+add_info_to_pdf/assets/cfto
+add_info_to_pdf/assets/other

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/useful-script.iml" filepath="$PROJECT_DIR$/.idea/useful-script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python-useful-script.iml" filepath="$PROJECT_DIR$/.idea/python-useful-script.iml" />
     </modules>
   </component>
 </project>
